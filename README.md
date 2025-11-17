@@ -25,11 +25,11 @@ The Superstore dataset showed high revenue numbers, but profitability was incons
 
 ### 2. Detailed Sales Analysis
 *Drill-down into Category and Sub-Category performance to identify loss-makers.*
-![Sales Analysis](screenshots/main_view.png)
+![Sales Analysis](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Page%202.png)
 
 ### 3. Regional Performance Map
 *Geographic view filtering sales performance by State and Region.*
-![Regional Map](screenshots/drill_down.png)
+![Regional Map](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Page%203.png)
 
 ## 💡 Key Insights Uncovered
 * **The "Furniture" Trap**: While the Furniture category drives high revenue, the "Tables" sub-category operates at a net loss due to excessive discounting.
