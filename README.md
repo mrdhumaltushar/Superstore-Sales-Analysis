@@ -21,15 +21,15 @@ The Superstore dataset showed high revenue numbers, but profitability was incons
 
 ### 1. Dashboard Cover & KPIs
 *A high-level view of the project scope.*
-![Main Dashboard](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Page%201.png)
+![Main Dashboard](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Dashboard%20Page%201.png)
 
 ### 2. Detailed Sales Analysis
 *Drill-down into Category and Sub-Category performance to identify loss-makers.*
-![Sales Analysis](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Page%202.png)
+![Sales Analysis](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Dashboard%20Page%202.png)
 
 ### 3. Regional Performance Map
 *Geographic view filtering sales performance by State and Region.*
-![Regional Map](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Page%203.png)
+![Regional Map](https://github.com/mrdhumaltushar/Superstore-Sales-Analysis/blob/main/Dashboard%20Page%203.png)
 
 ## 👤 Author
 **Tushar Dhumal**
